@@ -1,0 +1,40 @@
+body{
+    background-image: url(img/Bandeira\ da\ ferrari\ gigante.jpg);
+}
+
+.titulo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: yellow
+}
+
+.Sf90{
+    color: rgb(41, 40, 41);
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+   
+}
+
+.textosf{
+    font-size: 20px;
+}
+
+.Purosangue{
+    color: royalblue;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    font-size: 25px;
+
+}
+
+.Hibrida{
+    color: royalblue;
+    align-items: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    align-items: center;
+    font-size: 25px;
+
+}
+
+
