@@ -1,5 +1,8 @@
 body{
     background-image: url(img/Bandeira\ da\ ferrari\ gigante.jpg);
+    min-width: 320px;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 .titulo{
@@ -13,6 +16,7 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     align-items: center;
    
+   
 }
 
 .textosf{
@@ -25,6 +29,7 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     align-items: center;
     font-size: 25px;
+  
 
 }
 
@@ -35,6 +40,11 @@ body{
     align-items: center;
     font-size: 25px;
 
+}
+
+
+.image img{
+    width: 100%;
 }
 
 
